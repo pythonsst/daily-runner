@@ -1,0 +1,16 @@
+# Ignore token file
+.env
+
+# Ignore log files
+*.log
+/tmp/*.log
+
+# macOS system files
+.DS_Store
+
+# Shell history backups
+*.swp
+*.swo
+
+# VS Code settings (if you use VS Code)
+.vscode/
